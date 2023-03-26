@@ -1,0 +1,1 @@
+../../../../../node_modules/@nomi9995/react-native-image-compressor/ios/Utils/ImageCompressor.h

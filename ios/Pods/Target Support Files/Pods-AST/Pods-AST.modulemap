@@ -1,0 +1,6 @@
+module Pods_AST {
+  umbrella header "Pods-AST-umbrella.h"
+
+  export *
+  module * { export * }
+}

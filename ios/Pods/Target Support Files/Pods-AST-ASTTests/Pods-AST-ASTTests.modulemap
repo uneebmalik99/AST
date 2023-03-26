@@ -1,0 +1,6 @@
+module Pods_AST_ASTTests {
+  umbrella header "Pods-AST-ASTTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

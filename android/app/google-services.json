@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "516138987274",
+    "project_id": "american-shipping-and-towing",
+    "storage_bucket": "american-shipping-and-towing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516138987274:android:103244b4a0a3312ac114f3",
+        "android_client_info": {
+          "package_name": "com.ast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516138987274-i26pngdj5u26el7j7ir993k6kqkf4ubt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA26X01qZlPwSN9Ra7U7Wq7MU8deS5ha7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516138987274-i26pngdj5u26el7j7ir993k6kqkf4ubt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
